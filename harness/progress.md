@@ -1,5 +1,22 @@
 # Progress Index
 
+## 2026-11-02 — Revert separate share title
+
+- Reverted the immediately preceding separate-shareTitle change at user request. Home/guest/root metadata again use meta.home.title (Phương Khải & Thanh Tâm).
+- Verification: TypeScript and git diff --check passed. Prior lint/build blockers remain; commit pending sandbox Git write access.
+
+## 2026-11-02 — Separate share title
+
+- Restored prior document and guest-personalized titles. Added meta.home.shareTitle specifically for OG/Twitter preview titles and OG siteName.
+- Verification: TypeScript and git diff --check passed; previous lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Short link preview title
+
+- Home/guest metadata and root OG site name use the centralized exact title Phương Khải & Thanh Tâm.
+- Verification: TypeScript and git diff --check passed. Previous lint/build blockers remain; deployed previews may retain platform caches.
+- Commit pending sandbox Git write access.
+
 ## 2026-11-02 — Production domain
 
 - Set production URL defaults to https://khai-tam-wedding.vercel.app across metadata, robots and sitemap; updated allowedDevOrigins.

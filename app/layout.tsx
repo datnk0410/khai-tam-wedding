@@ -55,7 +55,7 @@ export const metadata: Metadata = {
     description: meta.home.description,
     type: 'website',
     locale: 'vi_VN',
-    siteName: `${strings.hero.groomName} & ${strings.hero.brideName}`,
+    siteName: meta.home.title,
     images: [
       {
         url: '/images/og-image.jpg?v=5',
