@@ -17,7 +17,7 @@ const SITE_URL =
   process.env.NEXT_PUBLIC_SITE_URL || 'https://khai-tam-wedding.vercel.app'
 
 export async function generateMetadata(): Promise<Metadata> {
-  const title = meta.home.title
+  const title = `${hero.groomDisplayName} & ${hero.brideDisplayName} — Lễ cưới 15-16/11 DL`
   const description = hero.intro
 
   return {

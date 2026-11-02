@@ -1,5 +1,15 @@
 # Progress Index
 
+## 2026-11-02 — Restore original title wording
+
+- Restored original home/guest title wording for both browser and OG/Twitter, changing only couple name references to short display names. Restored root title wording with Thiệp cưới suffix.
+- Verification: TypeScript and git diff --check passed. Prior lint/build blockers remain; commit pending sandbox Git write access.
+
+## 2026-11-02 — Restore wedding browser title
+
+- Restored the wedding date suffix in browser tab titles for root/home/guest metadata; kept short OG/Twitter preview titles without adding a separate translation field.
+- Verification: TypeScript and git diff --check passed. Prior lint/build blockers remain; commit pending sandbox Git write access.
+
 ## 2026-11-02 — Revert separate share title
 
 - Reverted the immediately preceding separate-shareTitle change at user request. Home/guest/root metadata again use meta.home.title (Phương Khải & Thanh Tâm).
