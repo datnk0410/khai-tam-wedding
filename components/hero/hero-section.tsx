@@ -27,11 +27,11 @@ export const HeroSection = ({ guest }: HeroSectionProps) => {
                 <h1
                   className='font-script text-6xl leading-tight font-normal text-balance sm:text-7xl md:text-8xl'
                   id='hero-heading'>
-                  {s.groomName}
+                  {s.groomDisplayName}
                   <span className='mr-4 ml-2 inline-block px-3 align-middle text-[0.6em] text-gold-light opacity-80 md:mr-10 md:ml-4'>
                     &
                   </span>
-                  {s.brideName}
+                  {s.brideDisplayName}
                 </h1>
                 <div className='h-px w-24 bg-gold/70' />
                 <p className='max-w-2xl text-lg leading-7 text-cream/85 sm:text-lg'>
@@ -56,13 +56,13 @@ export const HeroSection = ({ guest }: HeroSectionProps) => {
             ) : null}
           </div>
 
-          <div className='group relative aspect-4/5 w-full max-w-100 overflow-hidden rounded-2xl border border-white/10 bg-[#8b1a2b] shadow-[0_20px_50px_rgba(0,0,0,0.3)] md:w-2/5'>
+          <div className='group relative aspect-3/4 w-full max-w-100 overflow-hidden rounded-2xl border border-white/10 bg-[#8b1a2b] shadow-[0_20px_50px_rgba(0,0,0,0.3)] md:w-2/5'>
             <div className='absolute inset-3 overflow-hidden rounded-2xl border border-gold/20'>
               <Image
                 fill
                 priority
-                alt='Đạt & Huyền — Ảnh cưới'
-                className='object-cover transition-transform duration-700'
+                alt={`${s.groomDisplayName} & ${s.brideDisplayName} — Ảnh cưới`}
+                className='object-cover object-[center_20%] transition-transform duration-700'
                 quality={70}
                 sizes='(max-width: 768px) min(100vw - 3rem, 28rem), 45vw'
                 src={heroPortrait}

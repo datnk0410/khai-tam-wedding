@@ -4,6 +4,6 @@
   "description": "Background music player with toggle control, persistent across routes, using external MP3 source",
   "dependencies": ["feat-001"],
   "status": "done",
-  "evidence": "Implemented components/shared/audio-player.tsx in root layout. Volume 0.2, top-right floating button with spinning music note icon. Autoplay attempted on mount. Verified with ./init.sh on 2026-05-06.",
+  "evidence": "Implemented components/shared/audio-player.tsx in root layout. Volume 0.2, top-right floating button with spinning music note icon. Autoplay attempted on mount. Verified with ./init.sh on 2026-05-06. 2026-11-02: switched background music to existing local /audios/mot-doi.mp3; verified source file exists and TypeScript passes. 2026-11-02: reversed music icon spin direction while retaining speed and reduced-motion rules; CSS declaration checked. 2026-11-02: restored clockwise music icon rotation by removing reverse; verified positive 360-degree keyframe and unchanged speed/reduced-motion rule.",
   "updated_at": "2026-05-06"
 }

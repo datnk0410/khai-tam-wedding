@@ -1,11 +1,11 @@
 import { strings } from './i18n'
 
 export function buildGoogleCalendarUrl(): string {
-  const start = '20260919'
-  const end = '20260921'
+  const start = '20261115'
+  const end = '20261117'
   const title = encodeURIComponent(strings.events.titleCalendar)
   const location = encodeURIComponent(
-    'https://maps.app.goo.gl/xBVg6Gs3JPenCaC89',
+    `${strings.events.groom.party.location}; ${strings.events.bride.party.location}`,
   )
 
   return (

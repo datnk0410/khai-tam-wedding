@@ -7,14 +7,14 @@ const MAPS = [
   {
     ...s.groom,
     embedUrl:
-      'https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d930.4128674863678!2d105.882478!3d21.126457!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x313507000f30a5af%3A0xa03c40fd1fd9a0d1!2zTmjDoCB2xINuIGjDs2EgR2lhIEzGsMahbmc!5e0!3m2!1svi!2s!4v1788429739744!5m2!1svi!2s',
-    openUrl: 'https://maps.app.goo.gl/MXZQYyDs5KQZcRbK7',
+      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3721.9659459500117!2d105.869811!3d21.1139238!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135019c2c12c493%3A0x2a2f60a58ce074a0!2zTmjDoCBWxINuIEhvw6EgVGjDtG4gTGFuIFRyw6w!5e0!3m2!1svi!2s!4v1793590656630!5m2!1svi!2s',
+    openUrl: 'https://maps.app.goo.gl/RmEG6MxFvNcddk6Z6',
   },
   {
     ...s.bride,
     embedUrl:
-      'https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d3738.193261140107!2d105.957888!3d20.457254!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjDCsDI3JzI2LjEiTiAxMDXCsDU3JzI4LjQiRQ!5e0!3m2!1svi!2s!4v1788429793393!5m2!1svi!2s',
-    openUrl: 'https://maps.app.goo.gl/mQVJXkQtQPsxDMZg7',
+      'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3722.6581949234037!2d105.88742289999999!3d21.0863097!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135a9fab3ec293d%3A0xf5f60d7e0bad792f!2zxJHGsOG7nW5nIEEsIE1haSBIacOqbiwgxJDDtG5nIEFuaCwgSMOgIE7hu5lpLCBWaeG7h3QgTmFt!5e0!3m2!1svi!2s!4v1793590660331!5m2!1svi!2s',
+    openUrl: 'https://maps.app.goo.gl/Kxj1zM1ASv2X97uR9',
   },
 ] as const
 
@@ -46,7 +46,7 @@ export const MapSection = () => {
                     allowFullScreen={true}
                     height='100%'
                     loading='lazy'
-                    referrerPolicy='no-referrer-when-downgrade'
+                    referrerPolicy='strict-origin-when-cross-origin'
                     src={map.embedUrl}
                     style={{ border: 0 }}
                     title={map.iframeTitle}

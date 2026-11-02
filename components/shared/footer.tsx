@@ -9,11 +9,11 @@ export const Footer = () => {
         <div className='mx-auto h-px w-24 bg-gold/40' />
 
         <p className='font-script text-4xl sm:text-5xl'>
-          {hero.groomName}
+          {hero.groomDisplayName}
           <span className='mx-3 inline-block px-2 align-middle text-[0.75em] text-gold-light opacity-80 md:mx-6'>
             &
           </span>
-          {hero.brideName}
+          {hero.brideDisplayName}
         </p>
 
         <p className='text-base leading-relaxed text-cream/75'>{s.thankYou}</p>

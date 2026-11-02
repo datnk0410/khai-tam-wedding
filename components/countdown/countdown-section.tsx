@@ -8,7 +8,7 @@ import { strings } from '@/lib/i18n'
 
 const { countdown: s } = strings
 
-const TARGET_DATE = new Date('2026-09-20T16:00:00+07:00').getTime()
+const TARGET_DATE = new Date('2026-11-16T08:00:00+07:00').getTime()
 
 const getTimeLeft = () => {
   const difference = TARGET_DATE - Date.now()

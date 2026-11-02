@@ -1,5 +1,68 @@
 # Progress Index
 
+## 2026-11-02 — Clockwise music icon
+
+- Restored clockwise rotation by removing reverse from the existing spin animation.
+- Verification: positive 360-degree keyframe, animation declaration and git diff --check checked. Speed and reduced-motion rules retained.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Taller hero frame
+
+- Changed hero frame aspect ratio from 4/5 to 3/4, increasing height about 6.7% at the same width.
+- Verification: TypeScript and git diff --check passed. Browser visual check pending; prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Hero portrait width and crop
+
+- Changed hero to object-cover with object position center 20% to fill the frame width and favor the upper photo.
+- Verification: TypeScript and git diff --check passed. Browser visual check pending; prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Reverse music icon rotation
+
+- Added reverse to the existing music icon spin animation; speed and reduced-motion override retained.
+- Verification: checked the animation declaration and sole consumer; git diff --check passed. Prior lint/build environment blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Hero portrait zoom
+
+- Fit the hero portrait inside its existing frame with object-contain and a neutral background to show more of the photo.
+- Verification: TypeScript and git diff --check passed. Browser visual check not performed; prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Groom schedule order
+
+- Moved the groom reception block before the ceremony block without changing event data.
+- Verification: source order, TypeScript and git diff --check passed. Prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Short hero and footer names
+
+- Added short display names for hero/footer: Phương Khải & Thanh Tâm. Kept full-name fields intact.
+- Verification: TypeScript and git diff --check passed. Previous lint/build environment blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Mot Doi background music
+
+- Changed AUDIO_SRC to /audios/mot-doi.mp3, using the existing user-provided file.
+- Verification: source file exists, TypeScript and git diff --check passed. Prior lint/build blockers remain (dependency export error and Google Fonts network access).
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Khai and Tam invitation details
+
+- Updated couple names, parents and family addresses from the invitation and supplied map locations. User confirmed both families share reception 16:00 15/11/2026 and ceremony 08:00 16/11/2026.
+- Updated metadata, RSVP labels, footer, November calendar alignment/highlights, countdown, calendar link and event directions links. Preserved the new map open links already present in the working tree.
+- Verification: data/calendar assertions, Next typegen, TypeScript and git diff --check passed. ESLint blocked by existing zod-validation-error/v4 export error; production build blocked by Google Fonts fetch failures. Standard init blocked by inactive default Node shim; used installed Node 24 binary for direct checks.
+- QR remains hidden. Existing story chapter content and bank details need separate supplied content before personalization.
+- Next steps: resolve toolchain/dependency/network blockers and run ./init.sh. Commit pending sandbox Git write access.
+
+## 2026-11-02 — Update family map embeds
+
+- Replaced groom and bride embed URLs with the exact user-provided Google Maps URLs; matched iframe referrer policy.
+- Verification: both URLs match exactly; git diff --check passed. Full checks blocked by inactive Node.js.
+- Existing directions button links and address labels are unchanged.
+- Next steps: run ./init.sh once Node.js is activated; commit pending (sandbox restricts .git writes).
+
 ## 2026-11-02 — Temporarily hide gift QR
 
 - Set SHOW_GIFT_QR to false; existing guard hides the entire gift registry section.
