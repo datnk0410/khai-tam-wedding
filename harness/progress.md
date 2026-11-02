@@ -1,5 +1,11 @@
 # Progress Index
 
+## 2026-11-02 — Correct village spelling
+
+- Corrected Lan Trù to Lan Trì in invitation metadata, family address, venue and map labels.
+- Verification: parsed translation JSON and confirmed all seven occurrences updated; git diff --check passed.
+- Commit pending sandbox Git write access.
+
 ## 2026-11-02 — Restore original title wording
 
 - Restored original home/guest title wording for both browser and OG/Twitter, changing only couple name references to short display names. Restored root title wording with Thiệp cưới suffix.

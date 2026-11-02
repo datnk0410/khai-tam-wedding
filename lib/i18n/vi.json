@@ -2,9 +2,9 @@
   "meta": {
     "home": {
       "title": "Phương Khải & Thanh Tâm — Thiệp cưới",
-      "description": "Thiệp cưới Phương Khải & Thanh Tâm. Trân trọng kính mời tới dự tiệc chung vui lúc 16:00 ngày 15/11/2026 và lễ cưới lúc 08:00 ngày 16/11/2026 tại Lan Trù và Mai Hiên, Đông Anh, Hà Nội.",
+      "description": "Thiệp cưới Phương Khải & Thanh Tâm. Trân trọng kính mời tới dự tiệc chung vui lúc 16:00 ngày 15/11/2026 và lễ cưới lúc 08:00 ngày 16/11/2026 tại Lan Trì và Mai Hiên, Đông Anh, Hà Nội.",
       "ogImageAlt": "Thiệp cưới Phương Khải & Thanh Tâm",
-      "keywords": "đám cưới Đỗ Phương Khải Nguyễn Thanh Tâm, thiệp cưới online, thiệp mời đám cưới, Lan Trù Mai Hiên Đông Anh"
+      "keywords": "đám cưới Đỗ Phương Khải Nguyễn Thanh Tâm, thiệp cưới online, thiệp mời đám cưới, Lan Trì Mai Hiên Đông Anh"
     },
     "story": {
       "title": "Hành trình yêu — Phương Khải & Thanh Tâm",
@@ -38,7 +38,7 @@
     },
     "venue": {
       "label": "Địa điểm",
-      "name": "Nhà trai Lan Trù & nhà gái Mai Hiên",
+      "name": "Nhà trai Lan Trì & nhà gái Mai Hiên",
       "address": "Đông Anh, Hà Nội"
     },
     "ctaRsvp": "Xác nhận tham dự",
@@ -66,7 +66,7 @@
       "name": "Đỗ Phương Khải",
       "father": "Đỗ Phương Nam",
       "mother": "Đỗ Thị Hoa",
-      "address": "Thôn Lan Trù, Đông Anh, Hà Nội"
+      "address": "Thôn Lan Trì, Đông Anh, Hà Nội"
     },
     "bride": {
       "title": "Nhà Gái",
@@ -95,7 +95,7 @@
         "date": "Chủ Nhật",
         "fullDate": "15/11/2026",
         "lunar": "7 tháng 10 năm Bính Ngọ",
-        "location": "Nhà văn hóa thôn Lan Trù, Đông Anh, Hà Nội"
+        "location": "Nhà văn hóa thôn Lan Trì, Đông Anh, Hà Nội"
       },
       "ceremony": {
         "label": "Lễ Thành Hôn",
@@ -103,7 +103,7 @@
         "date": "Thứ Hai",
         "fullDate": "16/11/2026",
         "lunar": "8 tháng 10 năm Bính Ngọ",
-        "location": "Nhà văn hóa thôn Lan Trù, Đông Anh, Hà Nội"
+        "location": "Nhà văn hóa thôn Lan Trì, Đông Anh, Hà Nội"
       }
     },
     "bride": {
@@ -135,7 +135,7 @@
     "heading": "Bản đồ chỉ đường",
     "groom": {
       "title": "Nhà trai - Phương Khải",
-      "address": "Nhà văn hóa thôn Lan Trù, Đông Anh, Hà Nội",
+      "address": "Nhà văn hóa thôn Lan Trì, Đông Anh, Hà Nội",
       "iframeTitle": "Bản đồ đường đi nhà trai"
     },
     "bride": {
