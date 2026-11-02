@@ -1,0 +1,41 @@
+{
+    "id":  "feat-001",
+    "name":  "Landing Page",
+    "description":  "Hero section with couple names (Kim Đạt \u0026 Thanh Huyền), event details (tiệc đãi khách 19/09/2026, lễ thành hôn 20/09/2026, Sân đình thôn Gia Lương, Đông Anh, Hà Nội), Google Maps embed, and CTAs for RSVP and Our Story",
+    "dependencies":  [
+
+                     ],
+    "status":  "done",
+    "evidence":  "Landing page hero, event cards, venue map embed, RSVP anchor section, /story placeholder route, and PhotoGallerySection with a curated 12-photo real wedding gallery, intrinsic image metadata, uniform portrait grid treatment across mobile and desktop, and ImageModal lightbox (portal-rendered, keyboard navigation, pinch/wheel zoom, panning, reduced-motion safe). Verified with pnpm lint and pnpm build on 2026-05-21. 2026-11-02 asset maintenance: renamed OG asset to og-image.jpg and converted hero source to hero-portrait.jpg; references and JPEG decoding checked. Full verification blocked by unavailable Node.js and Bash.",
+    "plan":  "docs/exec-plans/plans/feat-001-landing-page.md",
+    "acceptanceCriteria":  [
+                               "Hero section displays \u0027Kim Đạt \u0026 Thanh Huyền\u0027 and wedding dates",
+                               "Event details section shows venue \u0027Sân đình thôn Gia Lương, xã Đông Anh, TP Hà Nội\u0027 with Google Maps embed",
+                               "CTA buttons for \u0027Xác nhận tham dự\u0027 (RSVP) and \u0027Xem hành trình\u0027 (Our Story)",
+                               "Mobile-first responsive layout, light mode only",
+                               "Page loads in \u003c2s on 3G",
+                               "Framer Motion entrance animations on hero section",
+                               "Color palette: đỏ (wine), kem (cream), be (beige), gold accents",
+                               "Fonts: Inter (body) + Noto Serif (headings)"
+                           ],
+    "content":  {
+                    "coupleNames":  "Kim Đạt \u0026 Thanh Huyền",
+                    "dates":  {
+                                  "daiKhach":  {
+                                                   "duongLich":  "19/09/2026",
+                                                   "amLich":  "9/8 âm lịch (Bính Ngọ)",
+                                                   "label":  "Tiệc đãi khách"
+                                               },
+                                  "thanhHon":  {
+                                                   "duongLich":  "20/09/2026",
+                                                   "amLich":  "10/8 âm lịch",
+                                                   "label":  "Lễ thành hôn"
+                                               }
+                              },
+                    "venue":  {
+                                  "name":  "Sân đình thôn Gia Lương",
+                                  "address":  "Xã Đông Anh, TP Hà Nội"
+                              }
+                },
+    "notes":  "Vietnamese language only. Light mode only. No dark mode."
+}

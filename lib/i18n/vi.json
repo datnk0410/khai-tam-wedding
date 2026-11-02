@@ -1,0 +1,333 @@
+{
+  "meta": {
+    "home": {
+      "title": "Kim Đạt & Thanh Huyền — Thiệp cưới",
+      "description": "Thiệp cưới Kim Đạt & Thanh Huyền. Trân trọng kính mời tới dự bữa cơm thân mật ngày 19/09/2026 và lễ thành hôn ngày 20/09/2026 tại Sân đình Thôn Gia Lương, Xã Đông Anh, Hà Nội.",
+      "ogImageAlt": "Thiệp cưới Kim Đạt & Thanh Huyền",
+      "keywords": "đám cưới Kim Đạt Thanh Huyền, thiệp cưới online, thiệp mời đám cưới, Gia Lương Đông Anh, thiệp cưới Kim Đạt, thiệp cưới Thanh Huyền"
+    },
+    "story": {
+      "title": "Hành trình yêu — Kim Đạt & Thanh Huyền",
+      "description": "Câu chuyện tình yêu của Kim Đạt & Thanh Huyền — từ những ngày đầu gặp gỡ đến ngày về chung một nhà.",
+      "keywords": "hành trình yêu, câu chuyện tình yêu, Kim Đạt Thanh Huyền"
+    }
+  },
+  "shared": {
+    "skipToContent": "Chuyển đến nội dung chính"
+  },
+  "hero": {
+    "eyebrow": "Thiệp mời đám cưới",
+    "groomName": "Kim Đạt",
+    "brideName": "Thanh Huyền",
+    "intro": "Trân trọng kính mời bạn cùng gia đình tới dự và chung vui cùng chúng mình trong ngày trọng đại.",
+    "invitation": {
+      "leading": "Thân mời",
+      "trailing": "tới dự và chung vui cùng gia đình hai bên trong ngày vui của chúng mình."
+    },
+    "reception": {
+      "label": "Tiệc đãi khách",
+      "solarDate": "19/09/2026",
+      "lunarDate": "9 tháng 8 năm Bính Ngọ"
+    },
+    "ceremony": {
+      "label": "Lễ thành hôn",
+      "solarDate": "20/09/2026",
+      "lunarDate": "10 tháng 8 năm Bính Ngọ"
+    },
+    "venue": {
+      "label": "Địa điểm",
+      "name": "Sân đình thôn Gia Lương",
+      "address": "Xã Đông Anh, Hà Nội"
+    },
+    "ctaRsvp": "Xác nhận tham dự",
+    "ctaStory": "Xem hành trình",
+    "heroPhotoPlaceholder": "Ảnh cưới của bạn",
+    "rsvpPlaceholder": "Phần xác nhận tham dự sẽ sớm được cập nhật."
+  },
+  "countdown": {
+    "heading": "Đếm ngược tới lễ cưới",
+    "units": {
+      "days": "Ngày",
+      "hours": "Giờ",
+      "minutes": "Phút",
+      "seconds": "Giây"
+    }
+  },
+  "family": {
+    "sectionEyebrow": "Gia đình",
+    "labels": {
+      "father": "Ông:",
+      "mother": "Bà:"
+    },
+    "groom": {
+      "title": "Nhà Trai",
+      "name": "Nguyễn Kim Đạt",
+      "father": "Nguyễn Kim Hòa",
+      "mother": "Nguyễn Thị Hà",
+      "address": "Thôn Gia Lương, Xã Đông Anh, TP Hà Nội"
+    },
+    "bride": {
+      "title": "Nhà Gái",
+      "name": "Lại Thị Thanh Huyền",
+      "father": "Lại Văn Sỹ",
+      "mother": "Vũ Thị Phương",
+      "address": "Thôn Lê Mỹ, Xã Thanh Bình, Tỉnh Ninh Bình"
+    }
+  },
+  "events": {
+    "saveTheDate": "Save The Date",
+    "attendInvitation": "Trân trọng kính mời tới dự lễ thành hôn của chúng mình",
+    "groomSide": "Lịch trình nhà trai",
+    "brideSide": "Lịch trình nhà gái",
+    "partyLabel": "Bữa cơm thân mật",
+    "sectionTitle": "Lịch trình",
+    "sectionEyebrow": "Chương trình sự kiện",
+    "calendarMonth": "Tháng 9",
+    "calendarDays": ["T2", "T3", "T4", "T5", "T6", "T7", "CN"],
+    "addToCalendar": "Nhấn vào đây để thêm vào lịch nhé! 😘",
+    "titleCalendar": "Đám cưới Kim Đạt & Thanh Huyền",
+    "groom": {
+      "party": {
+        "label": "Bữa cơm thân mật",
+        "time": "16:30",
+        "date": "Chủ Nhật",
+        "fullDate": "20/09/2026",
+        "lunar": "10 tháng 8 năm Bính Ngọ",
+        "location": "Nhà văn hóa Thôn Gia Lương, Xã Đông Anh, Hà Nội"
+      },
+      "ceremony": {
+        "label": "Lễ thành hôn",
+        "time": "16:00",
+        "date": "Chủ Nhật",
+        "fullDate": "20/09/2026",
+        "lunar": "10 tháng 8 năm Bính Ngọ",
+        "location": "Nhà văn hóa Thôn Gia Lương, Xã Đông Anh, Hà Nội"
+      }
+    },
+    "bride": {
+      "party": {
+        "label": "Bữa cơm thân mật",
+        "time": "16:30",
+        "date": "Thứ Bảy",
+        "fullDate": "19/09/2026",
+        "lunar": "9 tháng 8 năm Bính Ngọ",
+        "location": "Tư gia nhà gái, Thôn Lê Mỹ, Xã Thanh Bình, Tỉnh Ninh Bình"
+      },
+      "ceremony": {
+        "label": "Lễ Vu Quy",
+        "time": "11:00",
+        "date": "Chủ Nhật",
+        "fullDate": "20/09/2026",
+        "lunar": "10 tháng 8 năm Bính Ngọ",
+        "location": "Tư gia nhà gái, Thôn Lê Mỹ, Xã Thanh Bình, Tỉnh Ninh Bình"
+      }
+    }
+  },
+  "gallery": {
+    "heading": "Khoảnh khắc hạnh phúc",
+    "quote": "\"...anh đã tự nhủ sẽ nắm tay em đi hết quãng đời còn lại.\"",
+    "photoAlt": "Ảnh cưới",
+    "openPhotoLabel": "Mở"
+  },
+  "map": {
+    "heading": "Bản đồ chỉ đường",
+    "groom": {
+      "title": "Nhà trai - Kim Đạt",
+      "address": "Nhà văn hóa Thôn Gia Lương, Xã Đông Anh, TP Hà Nội",
+      "iframeTitle": "Bản đồ đường đi nhà trai"
+    },
+    "bride": {
+      "title": "Nhà gái - Thanh Huyền",
+      "address": "Thôn Lê Mỹ, Xã Thanh Bình, Tỉnh Ninh Bình",
+      "iframeTitle": "Bản đồ đường đi nhà gái"
+    },
+    "openMapsLabel": "Mở trong Google Maps"
+  },
+  "giftRegistry": {
+    "heading": "Gửi lời chúc phúc",
+    "description": "Sự hiện diện của bạn là món quà quý giá nhất đối với chúng mình. Nếu bạn ở xa hoặc không tiện tới dự mà vẫn muốn gửi lời chúc phúc, chúng mình xin được trân trọng đón nhận tấm lòng của bạn.",
+    "copyAccountLabel": "Sao chép số tài khoản",
+    "qrCodeAlt": "Mã QR chuyển khoản",
+    "groom": {
+      "title": "Nhà Trai",
+      "bankName": "BIDV",
+      "accountName": "NGUYEN KIM DAT",
+      "accountNumber": "8888987117",
+      "qrImage": "/images/qr-groom.jpg"
+    },
+    "bride": {
+      "title": "Nhà Gái",
+      "bankName": "BIDV",
+      "accountName": "LAI THI HUYEN",
+      "accountNumber": "4506773762",
+      "qrImage": "/images/qr-bride.jpg"
+    }
+  },
+  "rsvp": {
+    "heading": "Xác nhận tham dự",
+    "subheading": "Vui lòng điền thông tin để chúng mình được chuẩn bị đón tiếp bạn chu đáo hơn trong ngày vui.",
+    "namePlaceholder": "Nhập họ và tên...",
+    "nameLabel": "Họ tên khách mời",
+    "nameLoading": "Đang tải...",
+    "eventsLegend": "Sự kiện tham dự",
+    "eventDaiKhach": "Bữa cơm thân mật (19/09)",
+    "eventThanhHon": "Lễ thành hôn (20/09)",
+    "submit": "Gửi thông tin xác nhận",
+    "submitting": "Đang gửi thông tin...",
+    "successTitle": "Gửi thành công!",
+    "successMessage": "Cảm ơn bạn đã xác nhận. Chúng mình rất mong được đón tiếp bạn trong ngày vui sắp tới.",
+    "retryLabel": "Thử lại ngay",
+    "errorPrefix": "Lỗi:",
+    "defaultError": "Gửi thất bại. Vui lòng thử lại.",
+    "nameRequired": "Vui lòng nhập họ và tên để chúng mình chuẩn bị đón tiếp được chu đáo.",
+    "eventsRequired": "Vui lòng chọn ít nhất một sự kiện bạn sẽ tham dự."
+  },
+  "footer": {
+    "thankYou": "Cảm ơn bạn đã ghé thăm trang thiệp cưới của chúng mình. Sự hiện diện và tình cảm của bạn là món quà quý giá nhất trong ngày trọng đại này. Chúng mình rất mong được đón tiếp bạn trong ngày vui của gia đình.",
+    "weddingDate": "20 · 09 · 2026"
+  },
+  "floatingCta": {
+    "label": "Câu chuyện tình yêu Đạt và Huyền"
+  },
+  "guest": {
+    "personalMessageLabel": "Lời mời",
+    "greeting": "Xin chào"
+  },
+  "imageModal": {
+    "closeLabel": "Đóng",
+    "prevLabel": "Ảnh trước",
+    "nextLabel": "Ảnh sau",
+    "zoomHint": "Cuộn hoặc chụm để phóng to • Nhấp đúp để đưa ảnh về ban đầu"
+  },
+  "story": {
+    "eyebrow": "Hành trình 11 năm",
+    "title": "Kim Đạt & Thanh Huyền",
+    "intro": "Từ những ngày đầu gặp gỡ đến khi quyết định về chung một nhà — đây là câu chuyện của chúng mình.",
+    "backLink": "Quay lại thiệp cưới",
+    "chapterLabel": "Chương",
+    "chapterSectionLabel": "Các chương câu chuyện",
+    "imageSlotLabel": "Ảnh kỷ niệm",
+    "imageSlotChapter": "Chương",
+    "chapters": [
+      {
+        "year": 2016,
+        "title": "Từ một lần tình cờ",
+        "paragraphs": [
+          "Chúng mình gặp nhau vào những ngày còn đi học, khi mọi thứ vẫn còn rất vô tư và giản dị. Một đứa học lớp 12, một đứa mới vào lớp 10, thế mà chẳng hiểu sao lại bắt đầu để ý đến nhau từ những lần đi học chung trường.",
+          "Hồi ấy, chẳng có gì lãng mạn lớn lao cả. Chỉ là những lần nhìn thấy nhau trên đường, những buổi đi học về ngang qua nhau, những lần mượn sách vở, rồi dần dần là những tin nhắn hỏi han rất đỗi bình thường. Cũng trong năm đó, Tùng bước vào kỳ thi đại học, học cả hai khối A và B. Chúng mình còn từng hứa vui với nhau rằng biết đâu sau này sẽ lại học gần nhau, thậm chí là cùng ở Đại học Y Hà Nội. Đến tháng 4 năm ấy, chúng mình chính thức yêu nhau.",
+          "Nhưng rồi mọi chuyện không đi đúng như mình từng tưởng tượng. Tùng không đỗ Y Hà Nội, chỉ đỗ Quân y và Bách Khoa, và cuối cùng lại chọn Bách Khoa. Dù vậy, chính những ước mơ rất ngây ngô của những ngày đầu ấy lại trở thành một phần ký ức thật đẹp trong hành trình của chúng mình."
+        ],
+        "imageSlotCount": 4
+      },
+      {
+        "year": 2017,
+        "title": "Những lần gặp nhau đầu tiên",
+        "paragraphs": [
+          "Khi đã quen nhau hơn, chúng mình bắt đầu có thêm những lần gặp nhau thật đáng nhớ. Có buổi cùng đạp xe quanh làng, có tối đi chơi hội làng với nhau — những điều rất bình thường thôi mà đến giờ nghĩ lại vẫn thấy vui.",
+          "Nhìn lại mới thấy, hồi đó đơn giản thật. Chỉ cần được gặp nhau là đã thật vui rồi. Chẳng cần gì cầu kỳ, chỉ cần đi cùng nhau là đủ thấy ngày hôm ấy khác hẳn."
+        ],
+        "imageSlotCount": 3
+      },
+      {
+        "year": 2018,
+        "title": "Những giấc mơ tuổi 18",
+        "paragraphs": [
+          "Đó là năm có rất nhiều áp lực và cũng có rất nhiều hy vọng. Thanh Huyền bước vào kỳ thi đại học với nhiều cố gắng, mang theo ước mơ vào Đại học Y Hà Nội. Chúng mình khi ấy vẫn còn giữ một niềm tin rất dễ thương rằng biết đâu sau này sẽ lại có dịp học gần nhau hơn.",
+          "Kỳ thi ấy đi qua không hẳn nhẹ nhàng. Thanh Huyền không đỗ Y Hà Nội, đã có những lúc buồn đến phát khóc, nhưng rồi sau đó lại chọn học ở Học viện Quân y. Cũng chính từ quãng thời gian ấy, chúng mình học cách ở bên nhau không chỉ trong lúc vui, mà cả những lúc mệt mỏi và chông chênh nhất."
+        ],
+        "imageSlotCount": 5
+      },
+      {
+        "year": 2019,
+        "title": "Bắt đầu những ngày yêu xa",
+        "paragraphs": [
+          "Năm này, chúng mình bước vào một giai đoạn khác: vẫn yêu nhau, nhưng không còn được gặp nhau dễ dàng như trước. Một đứa học ở Bách Khoa, một đứa học ở Học viện Quân y và ở ký túc xá, thế là từ yêu gần thành yêu xa lúc nào chẳng hay.",
+          "Dù vậy, cứ cuối tuần có dịp là lại tìm cách gặp nhau. Hồi ấy không có nhiều điều kiện, đi lại chủ yếu bằng xe buýt, nhưng chỉ cần được gặp nhau một chút thôi cũng đã đủ vui cả tuần."
+        ],
+        "imageSlotCount": 4
+      },
+      {
+        "year": 2020,
+        "title": "Lớn lên cùng nhau",
+        "paragraphs": [
+          "Khi cuộc sống sinh viên dần bận rộn hơn, chúng mình cũng bắt đầu trưởng thành hơn. Anh đi thực tập, em đi dạy thêm, có chút tiền hơn ngày trước nên những lúc gặp nhau cũng phong phú hơn: đi ăn, đi chơi, đi xem phim, gặp bạn bè.",
+          "Tình yêu năm ấy không ồn ào, nhưng rất bền. Mọi người hay hỏi sao yêu lâu thế mà vẫn bên nhau, chắc vì chúng mình chưa từng nghĩ phải làm gì quá lớn lao, chỉ là mỗi năm lại cố gắng hiểu nhau thêm một chút."
+        ],
+        "imageSlotCount": 3
+      },
+      {
+        "year": 2021,
+        "title": "Học cách dịu dàng với nhau",
+        "paragraphs": [
+          "Những năm đầu yêu nhau, cả hai đều còn trẻ con. Có lúc dỗi nhau, có lúc giận nhau vô lý, có lúc vì học hành áp lực mà chẳng dành được cho nhau nhiều thời gian như trước.",
+          "Nhưng rồi chúng mình cũng dần học được cách yêu trưởng thành hơn. Vẫn có cãi nhau đấy, vẫn có những lần không vui, nhưng điều may mắn là chưa bao giờ để một cuộc cãi vã kéo dài quá lâu. Có chuyện gì rồi cũng tìm cách ngồi lại trò chuyện với nhau để hiểu nhau hơn."
+        ],
+        "imageSlotCount": 4
+      },
+      {
+        "year": 2022,
+        "title": "Bình thường thôi, mà thương",
+        "paragraphs": [
+          "Sau nhiều năm bên nhau, tình yêu của chúng mình dần trở thành một phần rất quen thuộc trong cuộc sống. Không còn là những rung động vụng về như lúc đầu, mà là cảm giác hiểu tính nhau, biết lúc nào nên nhường, lúc nào nên nắm tay nhau chặt hơn một chút.",
+          "Cũng từ đó, những điều nhỏ bé lại trở nên đáng quý hơn. Một bữa ăn cùng nhau, một buổi đi chơi ngắn, một cuộc trò chuyện cuối ngày — tất cả đều bình thường thôi, nhưng đủ để thấy thương nhau nhiều hơn."
+        ],
+        "imageSlotCount": 5
+      },
+      {
+        "year": 2023,
+        "title": "Cùng nhau đi xa hơn",
+        "paragraphs": [
+          "Năm này, chúng mình bắt đầu có nhiều chuyến đi đáng nhớ hơn. Không chỉ là đi ăn hay đi xem phim nữa, mà là những chuyến đi xa, những lần đi qua đêm, đi homestay, đi du lịch, chụp ảnh Tết cùng nhau, rồi gom thêm thật nhiều kỷ niệm mới.",
+          "Mỗi chuyến đi là một lần hiểu nhau hơn trong những điều rất đời thường: ai là người lo lắng hơn, ai là người hay quên đồ, ai là người luôn miệng bảo “thôi để đấy”. Nghĩ lại, chính những điều nhỏ xíu như thế lại làm nên một quãng thanh xuân rất đẹp."
+        ],
+        "imageSlotCount": 4
+      },
+      {
+        "year": 2024,
+        "title": "Thử thách của khoảng cách",
+        "paragraphs": [
+          "Đây có lẽ là một trong những năm khó quên nhất. Khi em vào miền Nam học, chúng mình bước vào quãng yêu xa thật sự. Không còn là lúc nào muốn thì sẽ gặp được, cũng không còn là cuối tuần bắt xe đi một chút là tới.",
+          "Nửa năm ấy không dễ chút nào. Có những lúc tưởng như khoảng cách, áp lực và sự thay đổi sẽ khiến cả hai không giữ được nhau nữa. Nhưng rồi sau tất cả, khi được quay về gần nhau, chúng mình mới hiểu rằng tình yêu này vẫn còn nguyên giá trị — chỉ là cần thêm thời gian để cả hai trưởng thành hơn trong cách yêu."
+        ],
+        "imageSlotCount": 3
+      },
+      {
+        "year": 2025,
+        "title": "Chọn nhau một lần nữa",
+        "paragraphs": [
+          "Sau những thử thách, chúng mình bước vào năm này với sự bình tĩnh và rõ ràng hơn. Không còn yêu nhau theo kiểu chỉ cần cảm xúc là đủ, mà là yêu nhau với sự thấu hiểu, biết điều gì khiến đối phương buồn, điều gì khiến đối phương yên tâm.",
+          "Chúng mình đi chơi nhiều hơn, nói chuyện với nhau nhiều hơn, và cũng tin nhau hơn. Đến cuối năm, sau rất nhiều năm đồng hành, chúng mình quyết định bước sang một chặng mới: cầu hôn, và chính thức chọn nhau cho hành trình dài phía trước."
+        ],
+        "imageSlotCount": 4
+      },
+      {
+        "year": 2026,
+        "title": "Về chung một nhà",
+        "paragraphs": [
+          "Năm thứ 11, chúng mình không còn chỉ kể về những kỷ niệm cũ nữa, mà bắt đầu cùng nhau chuẩn bị cho tương lai thật sự. Từ chụp ảnh cưới, chọn đồ, lên danh sách khách mời, báo tin cho gia đình hai bên, đến những việc nhỏ mà trước đây chưa từng nghĩ sẽ có ngày cùng nhau làm.",
+          "Có mệt, có bận, có lúc rối lên vì quá nhiều thứ phải chuẩn bị. Nhưng trên tất cả, đó là niềm vui rất lớn — vì sau 11 năm, cuối cùng chúng mình cũng đi đến ngày được chính thức về chung một nhà."
+        ],
+        "imageSlotCount": 3
+      }
+    ]
+  },
+  "errors": {
+    "notFound": {
+      "heading": "404",
+      "message": "Trang bạn đang tìm không tồn tại hoặc đã được chuyển đi.",
+      "backHome": "Về lại trang chính"
+    },
+    "error": {
+      "heading": "Đã xảy ra lỗi",
+      "message": "Đã xảy ra lỗi ngoài ý muốn. Vui lòng thử lại sau ít phút.",
+      "retry": "Thử lại"
+    }
+  },
+  "apiErrors": {
+    "endpointNotConfigured": "Hệ thống xác nhận tham dự hiện chưa sẵn sàng. Vui lòng liên hệ gia đình hoặc thử lại sau.",
+    "invalidResponse": "Hệ thống phản hồi chưa đúng định dạng. Vui lòng thử lại sau ít phút.",
+    "submitFailed": "Chưa thể gửi thông tin xác nhận. Vui lòng thử lại.",
+    "networkError": "Không thể kết nối tới hệ thống. Vui lòng kiểm tra mạng và thử lại."
+  },
+  "guestPhotoAlt": "Ảnh khách mời"
+}
