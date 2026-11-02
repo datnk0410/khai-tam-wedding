@@ -1,5 +1,11 @@
 # Progress Index
 
+## 2026-11-02 — Fix schedule alignment
+
+- Moved groom ceremony out of reception block so both family schedules use matching sibling blocks and space-y-8 spacing.
+- Verification: source structure and git diff --check passed. init.sh blocked by Bash access denied; lint/typecheck/build blocked by no active Node.js version. Browser visual check pending.
+- Commit pending sandbox Git write access.
+
 ## 2026-11-02 — Bride address wording
 
 - Removed the Tư gia nhà gái prefix from bride reception and ceremony addresses.

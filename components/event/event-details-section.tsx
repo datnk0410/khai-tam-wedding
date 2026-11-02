@@ -121,6 +121,7 @@ export const EventDetailsSection = () => {
                   location={s.groom.party.location}
                   mapsUrl={MAPS_URLS.groom}
                 />
+              </div>
 
               <div className='space-y-2'>
                 <p className='text-gold-dark text-sm font-semibold tracking-widest uppercase'>
@@ -140,7 +141,6 @@ export const EventDetailsSection = () => {
                   mapsUrl={MAPS_URLS.groom}
                 />
               </div>
-            </div>
             </div>
 
             {/* Calendar */}
