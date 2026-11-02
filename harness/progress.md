@@ -1,5 +1,23 @@
 # Progress Index
 
+## 2026-11-02 — Bride address wording
+
+- Removed the Tư gia nhà gái prefix from bride reception and ceremony addresses.
+- Verification: translation JSON parsed; git diff --check passed.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Correct ceremony times
+
+- Updated groom ceremony to 10:00 and bride vu quy to 09:00 on 16/11/2026 from supplied message. Synced description, countdown and structured event time; reception unchanged.
+- Verification: exact ceremony-time assertions, TypeScript and git diff --check passed. Prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
+## 2026-11-02 — Hide family section
+
+- Removed FamilySection rendering and unused import from shared homepage content, hiding it on home and guest routes. Retained its component and data.
+- Verification: TypeScript and git diff --check passed; prior lint/build blockers remain.
+- Commit pending sandbox Git write access.
+
 ## 2026-11-02 — Correct village spelling
 
 - Corrected Lan Trù to Lan Trì in invitation metadata, family address, venue and map labels.

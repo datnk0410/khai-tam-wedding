@@ -2,7 +2,7 @@
   "meta": {
     "home": {
       "title": "Phương Khải & Thanh Tâm — Thiệp cưới",
-      "description": "Thiệp cưới Phương Khải & Thanh Tâm. Trân trọng kính mời tới dự tiệc chung vui lúc 16:00 ngày 15/11/2026 và lễ cưới lúc 08:00 ngày 16/11/2026 tại Lan Trì và Mai Hiên, Đông Anh, Hà Nội.",
+      "description": "Thiệp cưới Phương Khải & Thanh Tâm. Trân trọng kính mời tới dự tiệc chung vui lúc 16:00 ngày 15/11/2026 và lễ vu quy lúc 09:00 tại Mai Hiên, lễ thành hôn lúc 10:00 tại Lan Trì ngày 16/11/2026, Đông Anh, Hà Nội.",
       "ogImageAlt": "Thiệp cưới Phương Khải & Thanh Tâm",
       "keywords": "đám cưới Đỗ Phương Khải Nguyễn Thanh Tâm, thiệp cưới online, thiệp mời đám cưới, Lan Trì Mai Hiên Đông Anh"
     },
@@ -99,7 +99,7 @@
       },
       "ceremony": {
         "label": "Lễ Thành Hôn",
-        "time": "08:00",
+        "time": "10:00",
         "date": "Thứ Hai",
         "fullDate": "16/11/2026",
         "lunar": "8 tháng 10 năm Bính Ngọ",
@@ -113,15 +113,15 @@
         "date": "Chủ Nhật",
         "fullDate": "15/11/2026",
         "lunar": "7 tháng 10 năm Bính Ngọ",
-        "location": "Tư gia nhà gái, Đường A, thôn Mai Hiên, Đông Anh, Hà Nội"
+        "location": "Đường A, thôn Mai Hiên, Đông Anh, Hà Nội"
       },
       "ceremony": {
         "label": "Lễ Vu Quy",
-        "time": "08:00",
+        "time": "09:00",
         "date": "Thứ Hai",
         "fullDate": "16/11/2026",
         "lunar": "8 tháng 10 năm Bính Ngọ",
-        "location": "Tư gia nhà gái, Đường A, thôn Mai Hiên, Đông Anh, Hà Nội"
+        "location": "Đường A, thôn Mai Hiên, Đông Anh, Hà Nội"
       }
     }
   },

@@ -2,7 +2,6 @@ import { CountdownSection } from '@/components/countdown/countdown-section'
 import { EventDetailsSection } from '@/components/event/event-details-section'
 import { GiftRegistrySection } from '@/components/event/gift-registry-section'
 import { MapSection } from '@/components/event/map-section'
-import { FamilySection } from '@/components/family/family-section'
 import { PhotoGallerySection } from '@/components/gallery/mini-gallery-section'
 import { HeroSection } from '@/components/hero'
 import { Footer } from '@/components/shared'
@@ -23,7 +22,7 @@ export const HomePageContent = ({ guest }: HomePageContentProps) => {
     name: `Wedding of ${hero.groomName} & ${hero.brideName}`,
     description: hero.intro,
     startDate: '2026-11-15T16:00:00+07:00',
-    endDate: '2026-11-16T08:00:00+07:00',
+    endDate: '2026-11-16T10:00:00+07:00',
     location: {
       '@type': 'Place',
       name: hero.venue.name,
@@ -45,7 +44,6 @@ export const HomePageContent = ({ guest }: HomePageContentProps) => {
       />
       <HeroSection guest={guest} />
       <CountdownSection />
-      <FamilySection />
       <EventDetailsSection />
       <PhotoGallerySection />
       <MapSection />
