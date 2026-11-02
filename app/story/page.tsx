@@ -8,7 +8,7 @@ const {
 } = strings
 
 const SITE_URL =
-  process.env.NEXT_PUBLIC_SITE_URL || 'https://datnk-huyenlt-wedding.vercel.app'
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://khai-tam-wedding.vercel.app'
 
 export async function generateMetadata(): Promise<Metadata> {
   return {

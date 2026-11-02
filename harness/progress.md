@@ -1,5 +1,12 @@
 # Progress Index
 
+## 2026-11-02 — Production domain
+
+- Set production URL defaults to https://khai-tam-wedding.vercel.app across metadata, robots and sitemap; updated allowedDevOrigins.
+- Verification: TypeScript and git diff --check passed; no old domain references remain in runtime source.
+- Deployment follow-up: if NEXT_PUBLIC_SITE_URL is set on Vercel, update it to the new domain and redeploy. Hosting domain settings were not changed.
+- Prior lint/build blockers remain; commit pending sandbox Git write access.
+
 ## 2026-11-02 — Clockwise music icon
 
 - Restored clockwise rotation by removing reverse from the existing spin animation.
